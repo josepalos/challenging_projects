@@ -1,0 +1,9 @@
+[package]
+name = "text_editor__rust"
+version = "0.1.0"
+authors = ["Josep <josep.alos.pascual@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
