@@ -1,7 +1,7 @@
 Roadmap:
 
 - [x] Create a rust hello world
-- [ ] Open a file & display it
+- [x] Open a file & display it
 - [ ] Add content at the end of the file (in memory, then save at exit)
 - [ ] Add a moving cursor
 - [ ] Allow to write at the cursor
